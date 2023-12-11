@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilskeleton&show_icons=true&locale=en" alt="evilskeleton" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilskeleton&" alt="evilskeleton" /></p>
+
+[![EvilSkeleton's Stack Overflow | Stats](https://stats.quine.sh/EvilSkeleton/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EvilSkeleton)
